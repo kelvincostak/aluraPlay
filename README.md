@@ -1,1 +1,1 @@
-<h1>Desafio proposto pela Alura solicitando o site "Alura Play" responsivo.</h1>
+<h1>Desafio proposto pela Alura solicitando a manutenção do site "Alura Play", para torna-lo responsivo.</h1>
